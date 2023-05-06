@@ -1,6 +1,6 @@
 # Vac.dev Website
 
-Originally created by [EthWorks](https://ethworks.io/).
+Created this website during my work for [EthWorks](https://ethworks.io/). 
 
 # Development
 
